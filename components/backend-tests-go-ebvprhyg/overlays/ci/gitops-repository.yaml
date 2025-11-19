@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: backend-tests-go-ebvprhyg-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/backend-tests-go-ebvprhyg-gitops
